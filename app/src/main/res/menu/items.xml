@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_togglebtn"
+        android:orderInCategory="100"
+        android:title="Toggle Button"
+        />
+    <item
+        android:id="@+id/action_fragment"
+        android:orderInCategory="100"
+        android:title="New Fragment Aspect"
+       />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+    />
+</menu>
